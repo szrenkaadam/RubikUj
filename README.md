@@ -1,0 +1,2 @@
+# RubikUj
+Rubik-kocka közösen
